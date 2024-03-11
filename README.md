@@ -14,6 +14,7 @@ This program allows you to interact with an Ableton Live project file.
 ## Installation & Usage
 
 - Install [NodeJS](https://nodejs.org/en/download/current)
+- Clone this repository
 - For Windows, run AbletonTools.bat
 - For Mac OS, run AbletonTools
     - If you encounter an error when dragging a project file into the program window, please copy the path manually - right-click on the file, hold down the Alt button and click on “copy path”
