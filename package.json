@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@inquirer/prompts": "^4.2.1",
+    "ableton": "^0.0.8",
+    "inquirer": "^9.2.15",
+    "smpte.js": "^1.1.0"
+  },
+  "type": "module"
+}
